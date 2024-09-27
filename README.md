@@ -25,7 +25,7 @@ The devices used in these measurements are:
 
 ## Repository Structure
 
-Repository
+/Repository
     ├── ConfigurationFiles  # Contains configuration files for setting up or customizing various aspects of the X-ray machine.
     ├── cmake               # Holds CMake build scripts necessary for compiling the project.
     ├── extern              # Includes external dependencies or libraries utilized by the project, such as third-party libraries or resources required for building and running the framework.
