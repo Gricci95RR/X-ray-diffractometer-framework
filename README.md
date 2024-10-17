@@ -1,6 +1,6 @@
 # X-Ray Diffractometer for Crystal Characterization
 
-This framework controls the custom-built X-Ray Diffractometer (XRD) of the Mechatronics, Robotics, and Operations Section. X-Ray diffraction is used to characterize crystal collimators in terms of bending, miscut, and torsion angles.
+This C++ framework manages a custom-built X-ray Diffractometer (XRD). The XRD system utilizes X-ray diffraction to assess silicon crystal collimators by measuring bending, miscut, and torsion angles. The code is designed with a modular architecture to optimize the control of the mechatronic device.
 
 ## Table of Contents
 
